@@ -1,0 +1,1 @@
+MAIN_PAGE_URL = "http://selenium1py.pythonanywhere.com/"
